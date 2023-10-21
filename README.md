@@ -77,6 +77,9 @@ We welcome contributions from the community. To contribute to the Course Video P
    ```
    flutter run
    ```
+![image](https://github.com/Dhruv-IGI/CoursePlayer/assets/83370198/4a459579-ed91-40c8-a245-a291d4746218)
+![image](https://github.com/Dhruv-IGI/CoursePlayer/assets/83370198/b76c672d-8a29-41c6-8195-57ef6fca038e)
+
 
 ## Contact
 

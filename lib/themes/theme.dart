@@ -5,21 +5,21 @@ ThemeData getBlackWhiteTheme() {
   final ThemeData base = ThemeData.dark();
 
   return base.copyWith(
-    primaryColor: const Color.fromARGB(255,8, 32, 50),
+    primaryColor: const Color.fromARGB(255,12,12,12),
     primaryColorLight: Colors.white,
-    scaffoldBackgroundColor: const Color.fromARGB(255, 8, 32, 50),
+    scaffoldBackgroundColor: const Color.fromARGB(255, 12,12,12),
     appBarTheme: const AppBarTheme(
-      color: Color.fromARGB(255, 10, 22, 44),
+      color: Color.fromARGB(255, 63,63,63),
       elevation: 0, systemOverlayStyle: SystemUiOverlayStyle.light,
     ),
     textTheme: const TextTheme(
       displayLarge: TextStyle(
-        color: Colors.white,
+        color: Color.fromARGB(255, 60, 42, 33),
         fontSize: 24,
         fontWeight: FontWeight.bold,
       ),
       bodyLarge: TextStyle(
-        color: Colors.white,
+        color: Color.fromARGB(255, 60, 42, 33),
         fontSize: 16,
       ),
     ),

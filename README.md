@@ -1,4 +1,4 @@
-# Course Video Player
+# Play List Player
 
 ## Description
 
